@@ -1,12 +1,7 @@
 <template>
-<div>
-ini header
-</div>
-
 <NavigationBar/>
 <HeaderMainContent/>
 <HeaderCategoryContent/>
-
 </template>
 
 <script>

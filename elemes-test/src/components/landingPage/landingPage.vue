@@ -1,8 +1,4 @@
 <template>
-  <div class="hello">
-    INI LANDING
-  </div>
-
   <HeaderComp />
   <ContentComp />
   <FooterComp />
